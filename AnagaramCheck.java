@@ -4,7 +4,7 @@ public class AnagaramCheck {
 
      public static void main(String[] args) {
     	 
-    	 if(isAnagram("arj d    un","arju                                                                          n")) {
+    	 if(isAnagram("aarjun","arjuna")) {
     		 System.out.println("true");
     	 }else {
     		 System.out.println("No");
