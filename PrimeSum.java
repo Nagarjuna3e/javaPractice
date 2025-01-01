@@ -1,10 +1,8 @@
 package pratice;
-import java.util.Scanner;
+
 public class PrimeSum {
   public static void main(String[] args) {
-	  Scanner sc = new Scanner(Syatem.in);
-	  System.out.println("enter number ");
-	 int userinput=sc.nextInt();
+	 int userinput=100;
 	 int count=1;
 	 int num=2;
 	 int sum=0;
